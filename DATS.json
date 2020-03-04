@@ -3,7 +3,7 @@
 		"identifier": "dummy",
 		"identifierSource": "DOI"
 	},
-	"version": "GCF_000001405.39_GRCh38.p12",
+	"version": "GCF_000001405.39_GRCh38.p13",
 	"privacy": "public open",
 	"licenses": [
 		{
@@ -25,7 +25,7 @@
 	"title": "Homo sapiens reference genome sequences",
 	"description": "Homo sapiens reference genome sequences and annotation file, as stored in the International Nucleotide Sequence Database.",
 	"storedIn": {
-				"name": "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/latest_assembly_versions/GCF_000001405.39_GRCh38.p12/",
+		"name": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13"
 				"description": "FTP link to FASTA file containing DNA sequence"
 		    },
 	"dates": [
@@ -33,7 +33,7 @@
 			"type": {
 				"value":"CONP DATS JSON fileset creation date"
 			},
-			"date": "2019-08-13 13:48:54"
+			"value": "2020-02-04 14:32:00"
 		}
 	],
 	"distributions": [
@@ -104,7 +104,7 @@
 			"category": "FTP link to GFF file containing detailed annotations",
 			"values": [
 				{
-					"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/latest_assembly_versions/GCF_000001405.39_GRCh38.p12/GCF_000001405.39_GRCh38.p12_genomic.gff.gz"
+	"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13/GCF_000001405.39_GRCh38.p13_genomic.gff.gz"
 				}
 			]
 		},
