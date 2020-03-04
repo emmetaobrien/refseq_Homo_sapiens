@@ -25,7 +25,7 @@
 	"title": "Homo sapiens reference genome sequences",
 	"description": "Homo sapiens reference genome sequences and annotation file, as stored in the International Nucleotide Sequence Database.",
 	"storedIn": {
-			"name": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13"
+		"name": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13"
 		    },
 	"dates": [
 		{
@@ -103,7 +103,7 @@
 			"category": "FTP link to GFF file containing detailed annotations",
 			"values": [
 				{
-	"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13/GCF_000001405.39_GRCh38.p13_genomic.gff.gz"
+					"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13/GCF_000001405.39_GRCh38.p13_genomic.gff.gz"
 				}
 			]
 		},
