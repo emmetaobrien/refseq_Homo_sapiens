@@ -124,10 +124,18 @@
 			]
 		},
 		{
-			"category": "files",
+			"category": "CONP_status",
 			"values": [
 				{
-					"value": "10"
+					"value": "external"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"consortium": "Genome Reference Consortium"
 				}
 			]
 		},
