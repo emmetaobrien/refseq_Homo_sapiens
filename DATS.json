@@ -124,18 +124,10 @@
 			]
 		},
 		{
-			"category": "CONP_status",
+			"category": "origin_consortium",
 			"values": [
 				{
-					"value": "external"
-				}
-			]
-		},
-		{
-			"category": "origin",
-			"values": [
-				{
-					"consortium": "Genome Reference Consortium"
+					"value": "Genome Reference Consortium"
 				}
 			]
 		},
